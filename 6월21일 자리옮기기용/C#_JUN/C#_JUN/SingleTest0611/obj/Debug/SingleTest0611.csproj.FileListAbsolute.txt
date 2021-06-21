@@ -1,0 +1,7 @@
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\bin\Debug\SingleTest0611.exe.config
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\bin\Debug\SingleTest0611.exe
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\bin\Debug\SingleTest0611.pdb
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\obj\Debug\SingleTest0611.csprojAssemblyReference.cache
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\obj\Debug\SingleTest0611.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\obj\Debug\SingleTest0611.exe
+C:\Users\KB\Documents\C#_JUN\SingleTest0611\obj\Debug\SingleTest0611.pdb
